@@ -1,0 +1,15 @@
+{
+  "name": "babel-plugin-glimmer-stack-check",
+  "version": "1.0.0",
+  "description": "Strips stack checks in glimmer-vm",
+  "main": "index.js",
+  "author": "Chad Hietala <chadhietala@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "qunit test.js"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "qunitjs": "^2.4.0"
+  }
+}
